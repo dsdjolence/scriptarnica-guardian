@@ -1,0 +1,10 @@
+== Finance and payments
+
+.A board at the Australian Securities Exchange, which now uses blockchain. Photograph: Bloomberg via Getty Images
+image::images/finance.jpg[]
+
+The https://www.asx.com.au/[Australian Securities Exchange] announced in December 2017 that it would start using a blockchain to keep track of shareholdings and carry out equity transactions. Its blockchain, though, is to be very different from bitcoin’s or Ethereum’s public ledger: it will be a private, invitation-only network, run by the exchange in compliance with law and regulation. Although finance seems like an obvious field for applying blockchain technology, it is only partially so. In nearly all cases, big banks and financial institutions dabbling in blockchain have ditched the decentralised element and the mining mechanism, preferring – perhaps reasonably – to create a closed, private digital transaction record book.
+
+Something similar happened when companies harnessed blockchain technology to power payments in real-world currency. Take https://ripple.com/[Ripple], a payment system backed by several banks including Unicredit, UBS and Santander. Its open-source ledger is powered by tokens standing in for fiat money – which can be transferred cross-border in a cheaper and quicker fashion than remittances. Ripple’s protocol does not use mining and is pretty centralised; it also allows for payments to be “frozen” for legal reasons.
+
+“Our mission is not to apply blockchain to payments, but to make payments better. We use blockchain only insofar as it provides benefits,” says Ripple’s chief technology officer Stefan Thomas. “Blockchain is going to solve trust problems in transactions, but it comes at a cost: it’s more expensive and harder to coordinate. And it’s not always worth it: how often has your bank stolen money from you?”

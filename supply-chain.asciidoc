@@ -1,0 +1,8 @@
+== Supply chain
+
+.Scanning a tin of tuna using the Provenance app. Photograph: provenance.org
+image::images/supply chain.jpg[]
+
+How to make sure that the shirt we are wearing was not manufactured using child labour, or that the jewel in our wedding ring is not a blood diamond? Tracking a product’s history through the global supply chain is a tantalising task, given the multitude of parties involved. Some companies think blockchain technology could help make it easier. London-based https://www.provenance.org/whitepaper[Provenance], for instance, labels products such as fish or cotton with radio-frequency identification (RFID) tags that guarantee its ethical and safe sourcing; as the product changes hands, each step of its journey is automatically added to the blockchain; the end customer can then verify the object’s origins through a mobile app. Provenance claims to work with over 100 businesses, including large brands such as Sainsbury’s, and its architecture relies on Ethereum and Linux Foundation’s blockchain Hyperledger. Still, founder https://twitter.com/jessibaker[Jessi Baker] thinks that public blockchains “have a long way to go before they can be applied at scale”. To solve the problem, some of the logging is conducted without relying on a blockchain.
+
+Another London-based company, https://www.everledger.io/[Everledger], uses the blockchain to guarantee the provenance of diamonds: each stone is assigned a blockchain-based ID, which follows it from mine to jeweller, chronicling its history. This makes it possible to spot and root out diamonds whose provenance is unclear – which are often sourced in conflict zones. Over a million diamonds have gone through the Everledger treatment so far.

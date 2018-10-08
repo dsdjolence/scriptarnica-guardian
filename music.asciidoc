@@ -1,0 +1,14 @@
+== Music
+
+.Singer-songwriter Imogen Heap, who wants to use blockchain to tackle royalties. Photograph: Phil Fisk for the Observer
+image::images/music.jpg[]
+
+British singer http://imogenheap.com/home.php?[Imogen Heap] has been at the forefront of an effort to improve the music industry through blockchain. The problem Heap set out to tackle in 2015, through her initiative http://myceliaformusic.org/[Mycelia], was that of music royalties. Heap’s vision was to give power back to the artists: through the blockchain, musicians could reduce the clout of middlemen— such as labels and streaming services— and establish a more direct relationship with their fans.
+
+Over the following three years, though, Mycelia’s mission has shifted. Today, it is working on promoting a “creative passport”: a digital document containing a musician’s personal information, professional biography, discography and background – or, as Mycelia head of research https://twitter.com/dnnCarlotta[Carlotta De Ninni] defines it, “a beacon of verified information”.
+
+These passports are to be stored on a decentralised tamper-proof blockchain and could incorporate smart-contract elements for quick direct payments. “Imogen, for instance, receives tens of emails every day from people who want to play her songs in wedding videos or other similar contexts; answering them all is time-consuming,” De Ninni says. “A smart contract included in a creative passport could specify the terms of use for some songs, and automatically authorise the use after payment.”
+
+The organisation plans to launch the creative passport later this year but has not decided on which blockchain platform the project is to run.
+
+This article was amended on 21 March 2018 to correct the spelling of De Ninni’s surname, at second instance, and to clarify the expression in English of information she had provided in Italian.
